@@ -8,7 +8,7 @@ I have experience on softmatter particle tracking and automated segmentation of 
 
 I’m looking to collaborate on interesting machine learning and data science applications.
 
-You can reach me through [here.](https://research-information.bris.ac.uk/en/persons/abdelwahab-kawafi)
+You can find my email [here.](https://research-information.bris.ac.uk/en/persons/abdelwahab-kawafi)
 
 <!---
 wahabk/wahabk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
