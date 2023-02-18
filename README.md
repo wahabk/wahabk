@@ -1,12 +1,6 @@
 👋 Hi, I’m @wahabk
 
-I’m interested in machine learning for the analysis of time series and image data in biosciences.
-
-I’m currently doing a PhD on Machine Learning at the University of Bristol.
-
-I have experience on softmatter particle tracking and automated segmentation of bone. Have a look at my repositories 😄
-
-I’m looking to collaborate on interesting machine learning and data science applications.
+I am a final year PhD student working on softmatter particle tracking and automated segmentation of bone. Have a look at my repositories 😄
 
 You can find my email [here.](https://research-information.bris.ac.uk/en/persons/abdelwahab-kawafi)
 
