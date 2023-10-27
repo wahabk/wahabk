@@ -1,6 +1,6 @@
 👋 Hi, I’m @wahabk
 
-My repo contains personal projects and my PhD working on softmatter particle tracking and automated segmentation of bone. Have a look at my repositories 😄
+My repo contains personal projects and my PhD work on softmatter particle tracking and automated segmentation of bone. Have a look at my repositories 😄
 
 You can find my email [here.](https://research-information.bris.ac.uk/en/persons/abdelwahab-kawafi)
 
